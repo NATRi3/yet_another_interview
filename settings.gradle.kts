@@ -1,0 +1,1 @@
+rootProject.name = "yet_another_interview"
