@@ -6,7 +6,7 @@ plugins {
 
 group = "yet.another.interview"
 version = "1.0"
-description = "Interview in Yandex"
+description = "Interview"
 
 java {
     toolchain {
